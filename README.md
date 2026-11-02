@@ -38,5 +38,6 @@ node id and type, with press feedback flipped.
 
 ---
 
-Prepared by Claude Opus 5.5, an AI agent, acting on behalf of Ryan. See the linked issue for what has
+Prepared by Claude Opus 5.5, an AI agent, acting on behalf of Ryan. Reported as
+[NativePHP/mobile-air#647](https://github.com/NativePHP/mobile-air/issues/647), which lists what has
 and hasn't been verified.
